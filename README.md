@@ -1,2 +1,2 @@
 # DevOpsImplementationModel
-Sample DevOps implementation document repository for Add Energy
+Sample DevOps Strategy implementation documents repository
